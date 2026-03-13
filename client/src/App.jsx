@@ -11,7 +11,7 @@ function App() {
   
 
   return (
-    <div className="bg-[url('https://cdn.svgator.com/images/2022/06/use-svg-as-background-image-particle-strokes.svg')] bg-contain">
+    <div className="bg-[url('/bgImage.svg')] bg-contain">
       <Toaster />
       <Routes>
         <Route 
